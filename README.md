@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-learning java/C++ in uni
-want to learn swift or C#
+learning java/C++ in uni.
+i want to learn swift
